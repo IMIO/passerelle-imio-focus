@@ -1,0 +1,3 @@
+recursive-include passerelle_imio_focus/*
+include MANIFEST.in
+include README
